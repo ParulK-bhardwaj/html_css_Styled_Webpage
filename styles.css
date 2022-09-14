@@ -1,4 +1,4 @@
-/* myportfolio.css*/
+/* ----- myportfolio.css -----*/
 
 /* Setting the height 100% to the body and html to fill the full height of window vertically. */
 
@@ -6,8 +6,8 @@ body, html{
     height: 100%;
 }
 
-/* remove the margin and padding in all browsers */
-/* used a custom font from Google "Hind", set san-serif as a second font if "Hind" is not available*/
+
+/* used a custom font from Google "Hind", set san-serif as a second font if "Hind" is not available */
 body {
    font-family: "Hind", sans-serif; 
    font-size: 23px;
@@ -33,7 +33,7 @@ nav ul {
     
 }
 
-/* Change the anchor tag style for Navigation*/
+/* Change the anchor tag style for Navigation */
 nav a{
     margin: auto;
     font-size: 23px;
